@@ -1,0 +1,30 @@
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Release\MainBase.mdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Release\DataBase.exe.config
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Release\DataBase.exe
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Release\DataBase.pdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Arhive.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Block.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Cena.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Form1.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Form2.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Properties.Resources.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.Stud.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.csproj.GenerateResource.Cache
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.exe
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.pdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Release\DataBase.csprojResolveAssemblyReference.cache
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\bin\Release\MainBase.mdb
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\bin\Release\DataBase.exe.config
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\bin\Release\DataBase.exe
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\bin\Release\DataBase.pdb
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.csprojResolveAssemblyReference.cache
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Arhive.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Block.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Cena.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Form1.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Form2.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Properties.Resources.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.Stud.resources
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.csproj.GenerateResource.Cache
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.exe
+D:\programs\GIT_C#\GUI_DB\Proga\DataBase\DataBase\obj\Release\DataBase.pdb

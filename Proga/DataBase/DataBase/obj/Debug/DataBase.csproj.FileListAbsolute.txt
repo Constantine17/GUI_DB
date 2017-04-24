@@ -1,0 +1,15 @@
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Debug\MainBase.mdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Stud.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Block.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Arhive.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Cena.resources
+D:\Учеба\практика 2015\Proga\DataBase\DataBase\obj\Debug\DataBase.Form2.resources
